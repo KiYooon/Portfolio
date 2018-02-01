@@ -229,5 +229,6 @@ section.contents2 {
 @media(min-width : 768px){
     .dddd{
         display: none;
+	text-align: center;
     }
 }
